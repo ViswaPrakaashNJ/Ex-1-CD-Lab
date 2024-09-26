@@ -18,8 +18,8 @@
 # PROGRAM
 
 ```
-/*    Developed By : VISWA PRAKAASH N J
-      Reg No : 212223040246   */
+/* Developed By : VISWA PRAKAASH N J
+   Reg No : 212223040246*/
 
 #include <stdio.h> 
 #include <ctype.h> 
