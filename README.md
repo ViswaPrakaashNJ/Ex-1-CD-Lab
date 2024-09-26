@@ -17,10 +17,10 @@
  
 # PROGRAM
 
-/*
-Developed By : VISWA PRAKAASH N J
-Reg No : 212223040246
-*/
+```
+/*    Developed By : VISWA PRAKAASH N J
+      Reg No : 212223040246   */
+
 #include <stdio.h> 
 #include <ctype.h> 
 #include <string.h> 
@@ -81,7 +81,7 @@ int main()
     }
     return 0;    
 }
-
+```
 # OUTPUT
 
 ![image](https://github.com/user-attachments/assets/e67fb8b3-1aab-4bcc-a65a-33015e403dc5)
